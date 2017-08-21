@@ -25,7 +25,7 @@ SECRET_KEY = 'q$(gcp@!kc6c9nadnh$(ba2kz=6z^0&lz(dqz1=cc=r++1o8v@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zahassan.pythonanywhere.com']
 
 
 # Application definition
